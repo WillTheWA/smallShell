@@ -13,6 +13,8 @@ To compile and run the program successfully, please follow these steps:
 * File navigation (ls, cd)
 * Executing background operations (fork)
 * Standard command line interface
+* Signal handling
+* Input and output redirection (I/O)
 
 # NOTICE
 
