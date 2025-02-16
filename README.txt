@@ -13,3 +13,9 @@ To compile and run the program successfully, please follow these steps:
 * File navigation (ls, cd)
 * Executing background operations (fork)
 * Standard command line interface
+
+# NOTICE
+
+THIS CODE IS NOT ALLOWED TO BE USED TO SOLVE THE SAME ASSIGNMENT. IF ANY CODE SUBMITTED TO FUTURE 
+OPERATING SYSTEMS CLASSES MATCHES THIS CODE, IT WILL BE FLAGGED AS PLAGIARISED AND STUDENTS WILL RECIEVE 
+AN F.
